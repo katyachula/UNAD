@@ -39,7 +39,7 @@
 
 	div#Footer{
 		margin-top: 15px;
-		color: white;
+		color: black;
 		margin-left: 15px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		font-size: 10pt;
@@ -106,7 +106,7 @@
 
 	#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
-		color: black;
+		color: white;
 		width: 1100px;
 		float: center;
 		height: 130PX;
