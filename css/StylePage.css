@@ -11,7 +11,7 @@
 		background-color: #ffffff;
 		height: 910px;
 		border-bottom-style: solid;
-		border-color: #f0B429;
+		border-color: #005883;
 		border-radius: 5px;
 	}
 
@@ -61,7 +61,7 @@
 		background-color: #ffffff;
 		border-radius: 5px;
 		border-style: solid;
-		border-color: #f0B429;
+		border-color: #F47920;
 	}
 
 	div#Contenido{
@@ -134,7 +134,7 @@
 	}
 
 	.nav li a:hover{
-		background-color: #f0B429;
+		background-color: #F47920;
 	}
 
 	.nav > li{
