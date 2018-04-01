@@ -22,7 +22,7 @@
 		background-color: #005883;
 		border-style: solid;
 		border-color: #005883;
-		color: black;
+		color: White;
 		border-radius: 5px;
 	}
 
@@ -124,7 +124,7 @@
 
 	.nav li a{
 		background-color: #F47920;
-		color: white;
+		color: black;
 		text-decoration: none;
 		padding: 9px 82px;
 		display: block;
