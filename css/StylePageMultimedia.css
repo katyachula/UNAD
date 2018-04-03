@@ -8,21 +8,21 @@
 	}
 
 	div#General{
-		background-color: #005883;
-		height: 890px;
+		background-color: #ffffff;
+		height: 910px;
 		border-bottom-style: solid;
-		border-color: #f0B429;
+		border-color: #005883;
 		border-radius: 5px;
 	}
 
 	div#Main{
 		margin: auto;
 		width: 1097px;
-		height: 624px;
-		background-color: #F47920;
+		height: 639px;
+		background-color: #005883;
 		border-style: solid;
-		border-color: #F47920;
-		color: white;
+		border-color: #005883;
+		color: black;
 		border-radius: 5px;
 	}
 
@@ -37,6 +37,7 @@
 		margin-top: 10px;
 	}
 
+
 	div#Recomendaciones{
 		margin-bottom: 30px;
 		margin-right: 30px;
@@ -46,7 +47,7 @@
 
 	div#Footer{
 		margin-top: 15px;
-		color: white;
+		color: black;
 		margin-left: 15px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		font-size: 10pt;
@@ -65,10 +66,10 @@
 		float: left;
 		width: 1087px;
 		height: 45px;
-		background-color: #005883;
+		background-color: #ffffff;
 		border-radius: 5px;
 		border-style: solid;
-		border-color: #f0B429;
+		border-color: #005883;
 	}
 
 	div#Contenido{
@@ -77,20 +78,19 @@
 		margin-left: 3px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
-		width: 1090px;
-		height: 490px;
-		background-color: #005883;
+		width: 673px;
+		height: 580px;
+		background-color: #ffffff;
 		border-radius: 5px;
 	}
-
 	div#Contenido3{
-		margin-top: 3px;
-		margin-left: 2px;
+		margin-top: 5px;
+		margin-left: 6px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		float: left;
-		width: 1092px;
-		height: 70px;
-		background-color: #005883;
+		width: 412px;
+		height: 580px;
+		background-color: #ffffff;
 		border-radius: 5px;
 	}
 
@@ -98,7 +98,7 @@
 		float: right;
 		margin-top: -125px;
 		margin-right: 5px;
-		color: white;
+		color: black;
 	}
 
 	div#Sellos{
@@ -112,15 +112,15 @@
 		float: left;
 	}
 
-	div#Titulo{
+	#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
-		color: white;
+		color: black;
 		width: 1100px;
 		float: center;
 		height: 130PX;
 	}
 
-	div#header{	
+	#header{	
 		margin: auto;
 		width: 1187px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
@@ -132,7 +132,7 @@
 
 	.nav li a{
 		background-color: #F47920;
-		color: white;
+		color: black
 		text-decoration: none;
 		padding: 9px 82px;
 		display: block;
@@ -142,7 +142,7 @@
 	}
 
 	.nav li a:hover{
-		background-color: #f0B429;
+		background-color: #005883;
 	}
 
 	.nav > li{
@@ -159,7 +159,7 @@
 	}
 
 	body{
-		background-color: #F47920;
+		background-color: #005883;
 	}
 </style>
 /*
@@ -167,6 +167,7 @@ Colores institucionales
 azul - #005883
 Amarillo - #f0B429
 Naranja - #F47920
+Blanco - #ffffff
 Gris oscuro - #333333
 Gris claro - #B3B3B3
 Gris semioscuro - #808080
