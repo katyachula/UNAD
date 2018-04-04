@@ -22,7 +22,7 @@
 		background-color: #005883;
 		border-style: solid;
 		border-color: #005883;
-		color: white;
+		color: black;
 		border-radius: 5px;
 	}
 
@@ -39,7 +39,7 @@
 
 	div#Footer{
 		margin-top: 15px;
-		color: black;
+		color: white;
 		margin-left: 15px;
 		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
 		font-size: 10pt;
