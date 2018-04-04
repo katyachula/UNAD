@@ -22,7 +22,7 @@
 		background-color: #005883;
 		border-style: solid;
 		border-color: #005883;
-		color: black;
+		color: white;
 		border-radius: 5px;
 	}
 
@@ -106,7 +106,7 @@
 
 	#Titulo{
 		font-family: Angsana New, Angsana New Bold, Arial;
-		color: white;
+		color: black;
 		width: 1100px;
 		float: center;
 		height: 130PX;
