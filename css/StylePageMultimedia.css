@@ -1,0 +1,177 @@
+<style type="text/css" media="screen">	
+	
+	@charset 'UTF-8';
+	
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+
+	div#General{
+		background-color: #ffffff;
+		height: 910px;
+		border-bottom-style: solid;
+		border-color: #005883;
+		border-radius: 5px;
+	}
+
+	div#Main{
+		margin: auto;
+		width: 1097px;
+		height: 639px;
+		background-color: #005883;
+		border-style: solid;
+		border-color: #005883;
+		color: black;
+		border-radius: 5px;
+	}
+
+	div#TextoTitulo{
+		margin-top: -42px;
+	}
+
+	div#Introduccion{
+		margin-bottom: 30px;
+		margin-right: 30px;
+		margin-left: 30px;
+		margin-top: 10px;
+	}
+
+
+	div#Recomendaciones{
+		margin-bottom: 30px;
+		margin-right: 30px;
+		margin-left: 30px;
+		margin-top: 7px;
+	}
+
+	div#Footer{
+		margin-top: 15px;
+		color: black;
+		margin-left: 15px;
+		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
+		font-size: 10pt;
+		float: left;
+		width: 915px;
+	}
+
+	div#Twitter{
+		height: 385px;
+	}
+
+	div#Contenido4{
+		margin-top: 1px;
+		margin-left: 2px;
+		font-family: Angsana New, Angsana New Bold, Arial;
+		float: left;
+		width: 1087px;
+		height: 45px;
+		background-color: #ffffff;
+		border-radius: 5px;
+		border-style: solid;
+		border-color: #005883;
+	}
+
+	div#Contenido{
+		margin-top: 5px;
+		margin-bottom: 2px;
+		margin-left: 3px;
+		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
+		float: left;
+		width: 673px;
+		height: 580px;
+		background-color: #ffffff;
+		border-radius: 5px;
+	}
+	div#Contenido3{
+		margin-top: 5px;
+		margin-left: 6px;
+		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
+		float: left;
+		width: 412px;
+		height: 580px;
+		background-color: #ffffff;
+		border-radius: 5px;
+	}
+
+	div#Contador{
+		float: right;
+		margin-top: -125px;
+		margin-right: 5px;
+		color: black;
+	}
+
+	div#Sellos{
+		float: left;
+		margin-top: 2px;
+	}
+
+	div#Logo{
+		margin-left: 125px;
+		margin-top: 15px;
+		float: left;
+	}
+
+	#Titulo{
+		font-family: Angsana New, Angsana New Bold, Arial;
+		color: black;
+		width: 1100px;
+		float: center;
+		height: 130PX;
+	}
+
+	#header{	
+		margin: auto;
+		width: 1187px;
+		font-family: Franklin Gothic Book, Franklin Gothic Italic, Arial;
+	}
+
+	ul, ol{
+		list-style: none;
+	}
+
+	.nav li a{
+		background-color: #F47920;
+		color: black
+		text-decoration: none;
+		padding: 9px 82px;
+		display: block;
+		margin-bottom: 1px;
+		margin-right: 1px;
+		text-align: left;
+	}
+
+	.nav li a:hover{
+		background-color: #005883;
+	}
+
+	.nav > li{
+		float: left;
+	}
+
+	.nav li ul{
+		display: none;
+		position: absolute;
+	}
+
+	.nav li:hover > ul {
+		display: block;
+	}
+
+	body{
+		background-color: #005883;
+	}
+</style>
+/*
+Colores institucionales
+azul - #005883
+Amarillo - #f0B429
+Naranja - #F47920
+Blanco - #ffffff
+Gris oscuro - #333333
+Gris claro - #B3B3B3
+Gris semioscuro - #808080
+Fuentes
+Angsana New
+Angsana New Bold
+Franklin Gothic Heavy*/
